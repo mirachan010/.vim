@@ -17,6 +17,22 @@ hook_post_update = '''
 [[plugins]]
 repo = 'scrooloose/nerdtree'
 
+#[[plugins]]
+#repo = 'Shougo/neosnippet-snippets'
+
+#[[plugins]]
+#repo = 'Shougo/neocomplete'
+
+[[plugins]]
+repo = 'nathanaelkane/vim-indent-guides'
+
+
+[[plugins]]
+repo = 'mattn/emmet-vim'
+
+#[[plugins]]
+#repo = ''
+
 
 
 [[plugins]]

@@ -1,2 +1,2 @@
 100
-['Shougo/neomru.vim', 'Shougo/unite.vim', 'Shougo/vimproc.vim', 'bronson/vim-trailing-whitespace', 'fatih/vim-go', 'nathanaelkane/vim-indent-guides', 'rcmdnk/vim-markdown', 'scrooloose/nerdtree', 'vim-airline/vim-airline', 'vim-airline/vim-airline-themes']
+['Shougo/neomru.vim', 'Shougo/unite.vim', 'Shougo/vimproc.vim', 'bronson/vim-trailing-whitespace', 'fatih/vim-go', 'mattn/emmet-vim', 'nathanaelkane/vim-indent-guides', 'rcmdnk/vim-markdown', 'scrooloose/nerdtree', 'vim-airline/vim-airline', 'vim-airline/vim-airline-themes']
