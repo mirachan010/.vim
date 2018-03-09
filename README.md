@@ -23,18 +23,16 @@ trailing whitespase
 <br>
 2gitをインストールする
 <br>
-<https://git-scm.com/downloads>
-<br>
-\3このレポジトリを"~/"でクローンする（~/.vim/にができたらおｋ）
-<br>
+<https://git-scm.com/downloads><br>
+
+\3このレポジトリを"~/"でクローンする（~/.vim/にができたらおｋ）<br>
 
 >cmd(Git bash)上で<br>
 >cd ~/<br>
->git clone https://github.com/mirachan010/.vim.git .vim
+>git clone https://github.com/mirachan010/.vim.git .vim<br>
 
-<br>
-\4win.batを起動する(~/.vimrcができたらおｋ)
-<br>
+\4win.batを起動する(~/.vimrcができたらおｋ)<br>
+
 5vimを起動して待つ（ちょっと時間かかるかも）
 <br>
 6楽しむ！！
