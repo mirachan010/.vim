@@ -13,11 +13,11 @@ trailing whitespase
 <https://www.vim.org/download.php#pc>
 2gitをインストールする
 <https://git-scm.com/downloads>
-3このレポジトリを"~/"でクローンする（~/.vim/にができたらおｋ）
+\3このレポジトリを"~/"でクローンする（~/.vim/にができたらおｋ）
 >cmd(Git bash)上で
 >cd ~/
 >#git clone https://github.com/mirachan010/.vim.git .vim
-4win.batを起動する(~/.vimrcができたらおｋ)
+\4win.batを起動する(~/.vimrcができたらおｋ)
 5vimを起動して待つ（ちょっと時間かかるかも）
 6楽しむ！！
 ***
