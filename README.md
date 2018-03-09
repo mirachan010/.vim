@@ -24,8 +24,7 @@ trailing whitespase
 2gitをインストールする
 <br>
 <https://git-scm.com/downloads><br>
-
-3このレポジトリを"\~/"でクローンする（\~/.vim/にができたらおｋ）<br>
+3このレポジトリを"\~/"でクローンする（\~/.vim/にができたらおｋ）
 
 >cmd(Git bash)上で<br>
 >cd ~/<br>
