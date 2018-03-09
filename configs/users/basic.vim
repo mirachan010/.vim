@@ -68,17 +68,17 @@ set noundofile
 set wildmenu
 
 "ペースト時のインデント整理
-if &term =~ "xterm"
-  let &t_SI .="\e[?2004h"
-  let &t_EI .="\e[2004l"
-  let &pastetoggle = "\e[201~"
-
-  function XTermPastBegin(net)
-    set paste
-    return a:ret
-  endfunction
-  inormap <special><expr><Esc>[200~XTermPasteBegin("")
-endif
+"if &term =~ "xterm"
+"  let &t_SI .="\e[?2004h"
+"  let &t_EI .="\e[2004l"
+"  let &pastetoggle = "\e[201~"
+"
+"  function XTermPastBegin(net)
+"    set paste
+"    return a:ret
+"  endfunction
+"  inormap <special><expr><Esc>[200~XTermPasteBegin("")
+"endif
 
 "バックスペース有効化
 set backspace=indent,eol,start
