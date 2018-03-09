@@ -28,8 +28,8 @@ trailing whitespase
 \3このレポジトリを"~/"でクローンする（~/.vim/にができたらおｋ）
 <br>
 
->cmd(Git bash)上で
->cd ~/
+>cmd(Git bash)上で<br>
+>cd ~/<br>
 >git clone https://github.com/mirachan010/.vim.git .vim
 
 <br>
