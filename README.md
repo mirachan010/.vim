@@ -1,6 +1,6 @@
 # vim
 vim用の設定
-#インストール済みプラグイン一覧
+# インストール済みプラグイン一覧
 vimproc
 nerdtree
 vim-indent-guides
@@ -8,7 +8,7 @@ emmet
 neomru
 unite
 trailing whitespase
-#使い方
+# 使い方
 1vimをインストールする
 <https://www.vim.org/download.php#pc>
 2gitをインストールする
