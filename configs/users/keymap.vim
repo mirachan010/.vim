@@ -10,3 +10,5 @@ nnoremap <silent><C-e> :NERDTreeToggle<CR>
 map <C-s> :wq!<CR>
 "強制終了
 map <C-a> <Esc>:q! <CR>
+"emmeet用
+let g:user_emmet_leader_key='<C-r>'

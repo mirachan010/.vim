@@ -53,5 +53,5 @@ on_source = ['unite.vim']
 [[plugins]]
 repo = 'bronson/vim-trailing-whitespace'
 
-[[plugins]]
-repo = 'nathanaelkane/vim-indent-guides'
+#[[plugins]]
+#repo = 'nathanaelkane/vim-indent-guides'
