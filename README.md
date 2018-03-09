@@ -25,20 +25,35 @@ trailing whitespase
 <br>
 <https://git-scm.com/downloads>
 <br>
+
 \3このレポジトリを"~/"でクローンする（~/.vim/にができたらおｋ）
+
 <br>
+
 >cmd(Git bash)上で
+
 <br>
+
 >cd ~/
+
 <br>
+
 >#git clone https://github.com/mirachan010/.vim.git .vim
+
 <br>
+
 \4win.batを起動する(~/.vimrcができたらおｋ)
+
 <br>
+
 5vimを起動して待つ（ちょっと時間かかるかも）
+
 <br>
+
 6楽しむ！！
+
 <br>
+
 ***
 今のところこれくらい
 これの書き方がわからない（markdown記法）
