@@ -13,20 +13,38 @@ hook_post_update = '''
       endif
   let g:dein#plugin.build = cmd
   '''
-
+#NERDTree(ツリーファイラー)
 [[plugins]]
 repo = 'scrooloose/nerdtree'
-
-#[[plugins]]
-#repo = 'Shougo/neosnippet-snippets'
-
-#[[plugins]]
-#repo = 'Shougo/neocomplete'
-
+#NERDTreeの追加設定用
 [[plugins]]
-repo = 'nathanaelkane/vim-indent-guides'
+repo = 'jistr/vim-nerdtree-tabs'
+
+#いろを変えるもの
+[[plugins]]
+repo = 'ujihisa/unite-colorscheme'
+[[plugins]]
+repo = 'flazz/vim-colorschemes'
+
+#自動で括弧を閉じてくれる
+[[plugins]]
+repo = 'Townk/vim-autoclose'
 
 
+#自動補完プラグイン系スニペット機能
+[[plugins]]
+repo = 'Shougo/neocomplete'
+[[plugins]]
+repo = 'Shougo/neosnippet-snippets'
+#スニペット集
+[[plugins]]
+repo = 'Shougo/neosnippet-snippets'
+
+#インデント表示
+[[plugins]]
+repo = 'Yggdroot/indentLine'
+
+#html系結構便利系Emmet
 [[plugins]]
 repo = 'mattn/emmet-vim'
 
@@ -34,21 +52,23 @@ repo = 'mattn/emmet-vim'
 #repo = ''
 
 
-
+#ステータスバー強化
 [[plugins]]
 repo = 'vim-airline/vim-airline-themes'
-
 [[plugins]]
 repo    = 'vim-airline/vim-airline'
 on_source = ['vim-airline/vim-airline-themes']
 
+
 [[plugins]]
 repo   = 'Shougo/unite.vim'
-
 # unite.vim を読み込んだら一緒に読み込む
 [[plugins]]
 repo      = 'Shougo/neomru.vim'
 on_source = ['unite.vim']
+
+[[plugins]]
+repo = "Shougo/vimfiler"
 
 [[plugins]]
 repo = 'bronson/vim-trailing-whitespace'

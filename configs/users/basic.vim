@@ -16,7 +16,7 @@ set showcmd
 set number
 
 "色をつける
-syntax enable
+"syntax enable
 " 現在の行を強調表示
 set cursorline
 " 現在の行を強調表示（縦）
