@@ -20,11 +20,9 @@ repo = 'scrooloose/nerdtree'
 [[plugins]]
 repo = 'jistr/vim-nerdtree-tabs'
 
-#いろを変えるもの
+#色をつけるもの
 [[plugins]]
-repo = 'ujihisa/unite-colorscheme'
-[[plugins]]
-repo = 'flazz/vim-colorschemes'
+repo = "tomasr/molokai"
 
 #自動で括弧を閉じてくれる
 [[plugins]]
