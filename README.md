@@ -9,19 +9,19 @@ vim用の設定
 - unite  
 - trailing whitespase  
 # 使い方  
-1vimをインストールする  
+1. vimをインストールする  
 <https://www.vim.org/download.php#pc>  
-2gitをインストールする  
+2. gitをインストールする  
 <https://git-scm.com/downloads>  
-3このレポジトリを"\~/"でクローンする（\~/.vim/にができたらおｋ）  
+3. このレポジトリを"\~/"でクローンする（\~/.vim/にができたらおｋ）  
 
 >cmd(Git bash)上で  
 >cd ~/  
 >git clone https://github.com/mirachan010/.vim.git .vim  
 
-4win.batを起動する(\~/.vimrcができたらおｋ)  
-5vimを起動して待つ（ちょっと時間かかるかも）  
-6楽しむ！！  
+4. win.batを起動する(\~/.vimrcができたらおｋ)  
+5. vimを起動して待つ（ちょっと時間かかるかも）  
+6. 楽しむ！！  
 
 # 困ってること
 カラースキーマで256色のものを使ったときwinのcmdでは変な色になってしまう  
