@@ -7,7 +7,7 @@ map <C-h> gT
 "^eでツリータブのプラグイン開始にする
 nnoremap <silent><C-e> :NERDTreeToggle<CR>
 "保存にctrlSを
-map <C-s> :wq!<CR>
+map <C-s> <Esc>:wq! <CR>
 "強制終了
 map <C-a> <Esc>:q! <CR>
 "emmeet用
