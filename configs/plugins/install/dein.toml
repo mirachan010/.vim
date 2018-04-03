@@ -71,5 +71,11 @@ repo = "Shougo/vimfiler"
 [[plugins]]
 repo = 'bronson/vim-trailing-whitespace'
 
+#Python用
+[[plugins]]
+repo = 'davidhalter/jedi-vim'
+on_ft = 'python'
+
+
 #[[plugins]]
 #repo = 'nathanaelkane/vim-indent-guides'
