@@ -8,8 +8,11 @@ vim用の設定
 - neomru  
 - unite  
 - trailing whitespase  
-# 使い方  
-1. vimをインストールする  
+# 使い方ubuntu
+mirachan010/set/main.shを起動させたら自動でこれが適用されます  
+<github.com/mirachan010/set>  
+# 使い方win  
+1. vimをインストールする  
 <https://www.vim.org/download.php#pc>  
 2. gitをインストールする  
 <https://git-scm.com/downloads>  
