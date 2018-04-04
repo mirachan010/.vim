@@ -1,5 +1,5 @@
 "プラグインが実際にインストールされるディレクトリ
-let s:dein_dir = expand('~/.vim/dein')
+let s:dein_dir = expand('~/dotfiles/.vim/dein')
 " dein.vim 本体
 let s:dein_repo_dir = s:dein_dir . '/repos/github.com/Shougo/dein.vim'
 
@@ -17,7 +17,7 @@ if dein#load_state(s:dein_dir)
   
   " プラグインリストを収めた TOML ファイル
   " ~/.vim/rc/dein.toml,deinlazy.tomlを用意する
-  let g:rc_dir    = expand('~/.vim/configs/plugins/install')
+  let g:rc_dir    = expand('~/dotfiles/.vim/configs/plugins/install')
   let s:toml      = g:rc_dir . '/dein.toml'
   let s:lazy_toml = g:rc_dir . '/dein_lazy.toml'
   
