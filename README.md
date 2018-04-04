@@ -10,12 +10,12 @@ vim用の設定
 - trailing whitespase  
 # 使い方ubuntu
 mirachan010/set/main.shを起動させたら自動でこれが適用されます  
-<github.com/mirachan010/set>  
+[mirachan010/set](https://github.com/mirachan010/set)
 # 使い方win  
 1. vimをインストールする  
-<https://www.vim.org/download.php#pc>  
+[vim](https://www.vim.org/download.php#pc)  
 2. gitをインストールする  
-<https://git-scm.com/downloads>  
+[git](https://git-scm.com/downloads)  
 3. このレポジトリを"\~/"でクローンする（\~/.vim/にができたらおｋ）  
 
 >cmd(Git bash)上で  
