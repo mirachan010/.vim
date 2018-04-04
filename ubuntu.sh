@@ -1,1 +1,2 @@
-ln -s ~/.vimrc ~/.vim/configs/users/.vimrc
+ln -s ~/.vim/configs/users/.vimrc ~/.vimrc
+
