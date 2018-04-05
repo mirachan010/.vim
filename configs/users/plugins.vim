@@ -1,3 +1,5 @@
+"deinをインストールするためのもの
+
 "プラグインが実際にインストールされるディレクトリ
 let s:dein_dir = expand('~/dotfiles/.vim/dein')
 " dein.vim 本体
