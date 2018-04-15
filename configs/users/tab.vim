@@ -11,6 +11,7 @@ set shiftwidth=2
 
 "改行時に前の行のインデントを継続
 set autoindent
-
 "連続した空白に対してタブキーやバックスペースキーでカーソルが動く幅
 set softtabstop=2
+"スマートインデントにする
+set smartindent
