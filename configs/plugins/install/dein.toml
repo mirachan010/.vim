@@ -28,12 +28,6 @@ repo = "tomasr/molokai"
 [[plugins]]
 repo = 'Townk/vim-autoclose'
 
-
-#自動補完プラグイン系スニペット機能
-[[plugins]]
-repo = 'Shougo/neocomplete'
-[[plugins]]
-repo = 'Shougo/neosnippet-snippets'
 #スニペット集
 [[plugins]]
 repo = 'Shougo/neosnippet-snippets'

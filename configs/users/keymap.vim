@@ -4,8 +4,8 @@ nnoremap k gk
 nnoremap <Down> gj
 nnoremap <UP> gk
 "nerdtree用タブ移動
-map <C-l> gt
-map <C-h> gT
+nnoremap <C-l> gt
+nnoremap <C-h> gT
 "^eでツリータブのプラグイン開始にする
 nnoremap <silent><C-e> :NERDTreeToggle<CR>
 "保存にctrlSを
