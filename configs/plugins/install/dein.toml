@@ -40,6 +40,12 @@ repo = 'Yggdroot/indentLine'
 [[plugins]]
 repo = 'mattn/emmet-vim'
 
+[[plugins]]
+repo = 'Xuyuanp/nerdtree-git-plugin'
+
+[[plugins]]
+repo = 'airblade/vim-gitgutter'
+
 #[[plugins]]
 #repo = ''
 
@@ -64,11 +70,6 @@ repo = "Shougo/vimfiler"
 
 [[plugins]]
 repo = 'bronson/vim-trailing-whitespace'
-
-#Python用
-[[plugins]]
-repo = 'davidhalter/jedi-vim'
-on_ft = 'python'
 
 
 #[[plugins]]
