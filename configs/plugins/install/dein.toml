@@ -52,11 +52,7 @@ repo = 'airblade/vim-gitgutter'
 
 #ステータスバー強化
 [[plugins]]
-repo = 'vim-airline/vim-airline-themes'
-[[plugins]]
-repo    = 'vim-airline/vim-airline'
-on_source = ['vim-airline/vim-airline-themes']
-
+repo = 'itchyny/lightline.vim'
 
 [[plugins]]
 repo   = 'Shougo/unite.vim'
