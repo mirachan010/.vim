@@ -46,6 +46,10 @@ repo = 'Xuyuanp/nerdtree-git-plugin'
 [[plugins]]
 repo = 'airblade/vim-gitgutter'
 
+[[plugins]]
+repo = 'tpope/vim-fugitive'
+
+
 #[[plugins]]
 #repo = ''
 
